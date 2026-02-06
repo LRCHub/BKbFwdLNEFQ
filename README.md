@@ -1,0 +1,72 @@
+# HIROTO (INI) – HEADACHE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tell me all the things you're hiding from me
+baby
+I don't know why but can't stop thinking about
+you every day
+Somebody get the meds, feelin' like I'm dead Woo
+Knockin' on my head
+Knockin' on my head
+Uh
+Got me feeling like a WA!!
+HEADACHE HEADACHE
+You got me feeling like a
+HEADACHE HEADACHE
+You got me feeling like a
+Stuck in my head like a loopin' beat
+The way you move your lip, movin' in slo mo
+Red and pink 染まる唇惑わす she got me goin loco
+Like your hair style Woo
+Like your make up Woo
+Let me see your OOTD
+Girl you making me go crazy
+Up and down like a seesaw
+繰り返すまた Recall
+Heart beating like ding ding dong
+Wanna let you know
+You're my indigo
+Take me to your room, caught in your perfume
+Just love me how you do love me how you do
+Fading like an echo
+届かない Like rainbow
+Reaching out, but pain grows
+抜け出せない Same flow
+頭ん中にこべりついてる Old screen
+144p
+Can't make it clean
+You're making me freeze in every scene
+Uh
+Got me feeling like a WA!!
+HEADACHE HEADACHE
+You got me feeling like a
+HEADACHE HEADACHE
+You got me feeling like a
+朝昼晩あっという間に
+過ぎてく Time but I still can't see
+You're my only drug, I need no plan B
+But you're my only drug that's killing me
+Oh my oh my oh my oh my oh
+You got me losing all my control
+なのに欲しがるもっと
+逆らえないこの衝動
+Let me hold on
+Let me hold on
+Let me hold on
+Sometimes I go so wrong but I go on
+On…
+Can't stop thinking about you yeah
+Sometimes I go so wrong but I go on
+HEADACHE HEADACHE
+WA!!
+HEADACHE HEADACHE
+Uh
+Got me feeling like a WA!!
+HEADACHE HEADACHE
+You got me feeling like a
+HEADACHE HEADACHE
+Uh
+Got me feeling like a WA!!
+```
