@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "HEADACHE",
+  "base_artist": "HIROTO (INI)",
+  "createdAt": "2026-02-06T06:41:09.076867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Headache Tomorrow (Or a Heartache Tonight)",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/01_A_Headache_Tomorrow_(Or_a_Heartache_Tonight)_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Headache for Michelle",
+      "artist": "Au Pairs",
+      "has_synced": true,
+      "path": "select/02_Headache_for_Michelle_Au_Pairs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Headache (For Michelle)",
+      "artist": "The Au Pairs",
+      "has_synced": true,
+      "path": "select/03_Headache_(For_Michelle)_The_Au_Pairs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Guy Who Got A Headache And Accidentally Saves The World",
+      "artist": "The Flaming Lips",
+      "has_synced": true,
+      "path": "select/04_Guy_Who_Got_A_Headache_And_Accidentally_Saves_The_World_The_Flaming_Lips.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Headache",
+      "artist": "Frank Black",
+      "has_synced": true,
+      "path": "select/05_Headache_Frank_Black.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Magician Vs. The Headache",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/06_The_Magician_Vs._The_Headache_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Headache",
+      "artist": "Girls",
+      "has_synced": true,
+      "path": "select/07_Headache_Girls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Think I Lost My Headache",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/08_I_Think_I_Lost_My_Headache_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Headache",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/09_Headache_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Think I Lost My Headache",
+      "artist": "Queens Of The Stone Age",
+      "has_synced": true,
+      "path": "select/10_I_Think_I_Lost_My_Headache_Queens_Of_The_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Headache",
+      "artist": "Motionless In White",
+      "has_synced": true,
+      "path": "select/11_Headache_Motionless_In_White.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Headache",
+      "artist": "Dina El Wedidi",
+      "has_synced": true,
+      "path": "select/12_Headache_Dina_El_Wedidi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One More Headache",
+      "artist": "The Paul Butterfield Blues Band",
+      "has_synced": false,
+      "path": "select/13_One_More_Headache_The_Paul_Butterfield_Blues_Band.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Think I Lost My Headache - Live At Brixton Academy / 2005",
+      "artist": "Queens of the Stone Age",
+      "has_synced": false,
+      "path": "select/14_I_Think_I_Lost_My_Headache_-_Live_At_Brixton_Academy___2005_Queens_of_the_Stone_Age.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Think I Lost My Headache (Live At Brixton Academy / 2005)",
+      "artist": "Queens of the Stone Age",
+      "has_synced": false,
+      "path": "select/15_I_Think_I_Lost_My_Headache_(Live_At_Brixton_Academy___2005)_Queens_of_the_Stone_Age.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My Favorite Headache",
+      "artist": "Geddy Lee",
+      "has_synced": true,
+      "path": "select/16_My_Favorite_Headache_Geddy_Lee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEADACHE",
+      "artist": "HIROTO (INI)",
+      "has_synced": false,
+      "path": "select/pl_01_HEADACHE_HIROTO_(INI).txt"
+    }
+  ]
+}
